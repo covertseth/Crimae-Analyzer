@@ -1,0 +1,2 @@
+/Users/qjcbq2/Projects/CrimeAnalyzer/CrimeAnalyzer copy/obj/x86/Debug/CrimeAnalyzer.csprojAssemblyReference.cache
+/Users/qjcbq2/Projects/CrimeAnalyzer/CrimeAnalyzer copy/obj/x86/Debug/CrimeAnalyzer.csproj.CoreCompileInputs.cache
